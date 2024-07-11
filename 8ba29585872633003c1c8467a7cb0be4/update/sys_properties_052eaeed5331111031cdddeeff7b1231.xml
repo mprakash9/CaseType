@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Set this property to true to enable the service defintion select in CSM Configurable Workspace. When enabled, an agent can use this feature to create a new record based off an existing product or service. This property overrides sn_csm_case_types.case_type_single_field_select property.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>sn_csm_case_types.service_definition_select</name>
+        <read_roles/>
+        <suffix>service_definition_select</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-07 20:19:19</sys_created_on>
+        <sys_id>052eaeed5331111031cdddeeff7b1231</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>sn_csm_case_types.service_definition_select</sys_name>
+        <sys_package display_value="CSM Case Types" source="sn_csm_case_types">8ba29585872633003c1c8467a7cb0be4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSM Case Types">8ba29585872633003c1c8467a7cb0be4</sys_scope>
+        <sys_update_name>sys_properties_052eaeed5331111031cdddeeff7b1231</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-08 09:38:33</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=052eaeed5331111031cdddeeff7b1231"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSM Case Types">8ba29585872633003c1c8467a7cb0be4</claim_owner_scope>
+        <claim_timestamp>190a0fed2470000001</claim_timestamp>
+        <metadata_update_name>sys_properties_052eaeed5331111031cdddeeff7b1231</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>CSM Case Types</previous_claim_name>
+        <previous_claim_scope>8ba29585872633003c1c8467a7cb0be4</previous_claim_scope>
+        <sys_created_by>prakash.mohanan@glidestack.com</sys_created_by>
+        <sys_created_on>2024-07-11 08:52:52</sys_created_on>
+        <sys_id>f2c70a4a1b5b8e1008c1c884604bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>prakash.mohanan@glidestack.com</sys_updated_by>
+        <sys_updated_on>2024-07-11 08:52:52</sys_updated_on>
+    </sys_claim>
+</record_update>
